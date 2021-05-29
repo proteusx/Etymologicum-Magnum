@@ -54,6 +54,7 @@ The Etymologicum Magnum encoded in the TLG CDROM is sourced from this hard copy 
 
 ## SEE ALSO
 Other Ancient Greek digital dictionaries:
+
 <https://github.com/proteusx/Suda-For-GoldenDict>
 
 <https://github.com/proteusx/Hesychius-For-GoldenDict>
