@@ -23,9 +23,6 @@ my $lex = read_file($lex_text, encoding => 'utf8' );
 my @lemas = split( /<(.*?)>\:/, $lex);
 shift @lemas;
 my $last = $#lemas;
-# print "$last\n";
-# print "$lemas[0] --> $lemas[1]\n";
-# print "$lemas[$#lemas - 1 ] --> $lemas[$#lemas]\n";
 
 for (my $l = 0; $l < $last; $l += 2){
   my $head = $lemas[$l];
