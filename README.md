@@ -42,7 +42,7 @@ Run the script: `build-magnum.sh`
 
 If everything is in order the file **`dictionary/magnum.dsl`** should be produced.  Point
 GoldenDict to this folder and the Etymologicum Magnum is ready to search.  Alternatively you may
-copy the folder **`dictionary`** to some other location.
+copy the the contents of the folder **`dictionary`** to some other location.
 
 There is also a release with `magnum.dsl` compiled and ready to use, together
 with its icon and annotations file.
@@ -55,6 +55,7 @@ The Etymologicum Magnum encoded in the TLG CDROM is sourced from this hard copy 
 ## SEE ALSO
 Other Ancient Greek digital dictionaries:
 <https://github.com/proteusx/Suda-For-GoldenDict>
+
 <https://github.com/proteusx/Hesychius-For-GoldenDict>
 
 
