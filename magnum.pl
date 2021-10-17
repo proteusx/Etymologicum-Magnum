@@ -25,7 +25,7 @@ shift @lemas;
 my $last = $#lemas;
 
 for (my $l = 0; $l < $last; $l += 2){
-  my $head = $lemas[$l];
+  my $head = lc($lemas[$l]);
   my $body = $lemas[$l+1];
   $body =~ s/\n?\s+/ /gs;
   $body =~ s/\- //g;
