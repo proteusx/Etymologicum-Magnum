@@ -26,6 +26,7 @@ my $last = $#lemas;
 
 for (my $l = 0; $l < $last; $l += 2){
   my $head = lc($lemas[$l]);
+  $head =~ s/>|<//g;
   my $body = $lemas[$l+1];
   $body =~ s/\n?\s+/ /gs;
   $body =~ s/\- //g;
