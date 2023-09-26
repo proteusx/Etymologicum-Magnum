@@ -1,3 +1,8 @@
+# Repository moved to Codeberg  
+
+https://codeberg.org/proteusx/Etymologicum-Magnum
+
+
 # ETYMOLOGICUM MAGNUM
 
 ## DESCRIPTION
